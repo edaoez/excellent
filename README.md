@@ -1,2 +1,2 @@
 # excellent
-mitI
+mitIntellij
